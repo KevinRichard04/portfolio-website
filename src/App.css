@@ -506,6 +506,7 @@ align-items: flex-start;
 }
 .footer--items ul > li > a:hover{
   cursor: pointer;
+  text-decoration: underline;
 }
 .footer--social--icon > ul {
   list-style: none;
